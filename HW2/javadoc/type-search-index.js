@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.handong.csee.java.hw2.math","l":"MathCalculator"},{"p":"edu.handong.csee.java.hw2","l":"MathDriver"}];updateSearchResults();

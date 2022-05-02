@@ -1,6 +1,6 @@
 package edu.handong.csee.java.hw2;
-// This is package 
-import edu.handong.csee.java.hw2.MathCalculator.MathCalculator;
+
+import edu.handong.csee.java.hw2.math.MathCalculator;
 /** This is a MathDriver class
  * 
  */
